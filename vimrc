@@ -1,3 +1,21 @@
+"============================================="
+" content of ~/.vimrc 
+"============================================="
+"== manage plugins with pathogen ==="
+"call pathogen#runtime_append_all_bundles() 
+"call pathogen#helptags()
+
+"source ~/.vim/vimrc
+"set showtabline=1  show tab bar while there are more than two tabs
+
+"==================================================
+" finished 
+"=====================================
+
+
+
+
+
 """""""""""""""""""""""""""""""""""""""""""""""
 " Sections:
 "    -> General
